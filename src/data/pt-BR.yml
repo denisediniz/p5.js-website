@@ -20,12 +20,12 @@ footer2: " e é desenvolvida por uma comunidade de colaboradores, com apoio de "
 footer3: " e "
 footer4: "Identidade e design gráfico por "
 
-tagline1: "Processing fun times JavaScript quirkiness"
-tagline2: "Processing simplicity times JavaScript flexibility"
-tagline3: "Processing intuition times JavaScript power"
-tagline4: "Processing creativity times JavaScript dynamism"
-tagline5: "Processing community times JavaScript community"
-tagline6: "the power of Processing times the reach of JavaScript"
+tagline1: "a diversão de Processing x as peculiaridades de JavaScript"
+tagline2: "a simplicidade de Processing x a flexibilidade de JavaScript"
+tagline3: "a intuição de Processing x o poder de JavaScript"
+tagline4: "a criatividade de Processing x o dinamismo de JavaScript"
+tagline5: "a comunidadde Processing x a comunidade JavaScript"
+tagline6: "o poder de Processing x o alcance de JavaScriptt"
 
 home:
   start-creating: "Comece a criar com o Editor p5!"
