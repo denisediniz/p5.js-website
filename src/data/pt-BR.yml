@@ -69,12 +69,12 @@ copyright:
   copyright4: " licença que permite reutilizar esse conteúdo para fins não comerciais se o crédito correspondente for concedido."
 
 get started:
-  get-started-title: "Get Started"
-  get-started1: "This page walks you through setting up a p5.js project and making your first sketch."
-  get-started2: "If you'd like to start with the new "
-  get-started3: "p5.js Editor"
-  get-started4: ", you can jump down to"
-  get-started5: "Your First Sketch"
+  get-started-title: "Iniciar"
+  get-started1: "Esta página te orienta na configuração de um projeto p5.js e no seu primeiro sketch."
+  get-started2: "Se quiser iniciar com o novo "
+  get-started3: "Editor p5.js"
+  get-started4: ", você pode ir diretamente ao"
+  get-started5: "Seu Primeiro Sketch"
   download-title: "Download and File Setup"
   download1: "The easiest way to start is by using the empty example that comes with the "
   download2: "p5.js complete"
